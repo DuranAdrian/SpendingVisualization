@@ -8,4 +8,4 @@ For privacy purposes, before uploading my own CSV test file to Github, I manuall
 Using Pandas, I parsed through the values and used Bokeh to generate a Pie Chart that is viewable on a web browser.
 
 ## SCREENSHOT
-<img src="https://github.com/DuranAdrian/SpendingVisualization/blob/master/SpendingVisualization/Screenshot/BankPieChart.png" width = 500>
+<img src="https://github.com/DuranAdrian/SpendingVisualization/blob/master/Screenshot/BankPieChart.png" width = 500>

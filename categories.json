@@ -1,0 +1,86 @@
+{
+    "INCOME": [
+        "DEPOSIT",
+        "TRANSFER FROM",
+        "VENMO CASHOUT",
+        "FROM DOORDASH, INC"
+    ],
+    "FOOD": [
+        "JACK IN THE BOX",
+        "WENDY'S",
+        "STARBUCKS",
+        "FATFISH",
+        "FAT FISH",
+        "PELTON CAFE",
+        "TAQUERIA LOS PERICOS",
+        "8-TWELVE",
+        "TACO BELL",
+        "CHIPOTLE",
+        "LOARDS ICE CREAM",
+        "MCDONALDS",
+        "PEET'S",
+        "7-ELEVEN",
+        "RAMEN 101",
+        "IHOP",
+        "THE COOLER",
+        "LA MICHOACANA"
+    ],
+    "GROCERIES": [
+        "SUPERMERCADO",
+        "SAFEWAY",
+        "TARGET",
+        "LOS PERICOS MARKET",
+        "GLACIER WATER"
+    ],
+    "TRANSPORTATION": [
+        "SHELL",
+        "CHEVRON",
+        "BART",
+        "METER MTA",
+        "PARKING"
+    ],
+    "ONLINE SHOPPING": [
+        "AMZN",
+        "AMAZON",
+        "PAYPAL"
+    ],
+    "PAYMENTS": [
+        "INTEREST",
+        "ONLINE TRANSFER",
+        "GREAT LAKES STUDENT"
+    ],
+    "TRANSFERS": [
+        "SAVE AS YOU GO TRANSFER",
+        "VENMO* VISA DIRECT",
+        "TRANSFER TO",
+        "ZELLE"
+    ],
+    "AUTOPARTS": [
+        "O'REILLY"
+    ],
+    "CLOTHES": [
+        "ROSS"
+    ],
+    "HEALTH": [
+        "KAISER"
+    ],
+    "ELECTRONICS": [
+        "BESTBUY",
+        "NINTENDO",
+        "UBISOFT",
+        "STEAMGAMES",
+        "FRY'S ELECTRONICS",
+        "AT&T S119"
+    ],
+    "MISCELLANEOUS": [
+        "TESLA",
+        "USPS",
+        "ALLPHIN JEWELERS",
+        "OVERTURE",
+        "PET FOOD EXPRESS",
+        "ROBINHOOD"
+    ],
+    "WITHDRAWAL": [
+        "ATM WITHDRAWAL"
+    ]
+}
